@@ -1,0 +1,25 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Esta es una calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jccs/cursoAngular.git"
+  },
+  "keywords": [
+    "calculadora"
+  ],
+  "author": "Julio Ceballos <ceballos.julio@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jccs/cursoAngular/issues"
+  },
+  "homepage": "https://github.com/jccs/cursoAngular#readme",
+  "devDependencies": {
+    "webpack": "^4.30.0"
+  }
+}
